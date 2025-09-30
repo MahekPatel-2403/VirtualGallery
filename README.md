@@ -1,12 +1,10 @@
-# My First Art Gallery Website! 🎨
+# My First Art Gallery Website!
 
 Hi! This is my project for my computer class. I made a simple webpage to show 5 of my favorite paintings.
 
-The cool part is that I built this whole page using **only HTML**. No CSS or any other code was used!
-
 ---
 
-### ✨ Cool HTML things I used:
+###  Cool HTML things I used:
 
 * Titles and paragraphs
 * Bold and italic text
@@ -17,7 +15,7 @@ The cool part is that I built this whole page using **only HTML**. No CSS or any
 
 ---
 
-### 👍 How to See My Website:
+###  How to See My Website:
 
 1.  Click the green `<> Code` button on this page and then click `Download ZIP`.
 2.  Unzip the folder on your computer.
@@ -25,7 +23,7 @@ The cool part is that I built this whole page using **only HTML**. No CSS or any
 
 ---
 
-### 📁 Files in this Folder:
+###  Files in this Folder:
 
 * `art_gallery.html` - The main webpage.
 * All the `.png` files - These are the pictures of the paintings.
