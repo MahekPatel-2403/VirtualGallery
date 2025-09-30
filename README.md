@@ -28,7 +28,7 @@ The cool part is that I built this whole page using **only HTML**. No CSS or any
 ### 📁 Files in this Folder:
 
 * `art_gallery.html` - The main webpage.
-* All the `.jpg` files - These are the pictures of the paintings.
+* All the `.png` files - These are the pictures of the paintings.
 * The PDF file - This is my project report for my teacher.
 
 Thanks for checking out my project!
